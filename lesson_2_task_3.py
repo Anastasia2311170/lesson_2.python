@@ -8,3 +8,4 @@ def square(numb):
 square_side = float(input("Введите размер стороны квадрата: "))
 result = square(square_side)
 print(f"Площадь квадрата = {result}")
+# This line forces the PR button to appear перевод
